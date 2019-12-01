@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\bin\Debug\WindowsFormsAssignment2.exe.config
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\bin\Debug\WindowsFormsAssignment2.exe
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\bin\Debug\WindowsFormsAssignment2.pdb
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\obj\Debug\WindowsFormsAssignment2.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\obj\Debug\WindowsFormsAssignment2.Form1.resources
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\obj\Debug\WindowsFormsAssignment2.Properties.Resources.resources
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\obj\Debug\WindowsFormsAssignment2.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\obj\Debug\WindowsFormsAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\obj\Debug\WindowsFormsAssignment2.exe
+C:\Users\Dell\source\repos\WindowsFormsAssignment2\WindowsFormsAssignment2\obj\Debug\WindowsFormsAssignment2.pdb
